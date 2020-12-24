@@ -1,4 +1,4 @@
-class Untitled {
+class SelectionSort {
 	public static void main(String[] args) {
 		int[]nums={-2,9,13,4,-8,0};
 		int arraySize=nums.length;

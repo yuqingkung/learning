@@ -1,4 +1,4 @@
-class Untitled {
+class CanJump {
 	public static void main(String[] args) {
 		int[] myArr={1,5,0,1,5,0,0,0,0,2,0,1,0};
 		System.out.println(canJump(myArr));
