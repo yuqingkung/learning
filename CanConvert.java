@@ -21,7 +21,7 @@ class CanConvert {
 				tCount++;
 			}
 			if (t.length() == tCount) {
-					return true;
+				return true;
 			}
 		}
 		return tCount == t.length() ? true : false ;
